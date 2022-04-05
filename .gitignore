@@ -1,0 +1,22 @@
+# General files
+base_de_datos_fullstack.txt
+tablas_normalizacion.xlsx
+
+server/node_modules
+server/.env
+client/node_modules
+client/.env
+client/dist
+client/dist-ssr
+client/*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
